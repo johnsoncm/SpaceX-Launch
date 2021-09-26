@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/1025952203/thumb/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 50%; */
+}
+
+.title-text {
+  color: white;
+    font-size: 50px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+
+}
